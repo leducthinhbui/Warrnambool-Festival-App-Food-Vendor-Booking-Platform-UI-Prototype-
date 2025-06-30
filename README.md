@@ -1,1 +1,2 @@
 # Warrnambool-Festival-App-Food-Vendor-Booking-Platform-UI-Prototype-
+As the Product Owner and team leader, I guided a team of five through the full Agile development cycle to design a mobile UI prototype for the Warrnambool Arts and Lost Trades Festival. The app helps visitors browse food stalls, book tickets, and leave reviews, while providing tailored dashboards for vendors, organisers, and admins. With a focus on usability, sponsor integration, and 3-click navigation, our final prototype met all MVP goals and stakeholder requirements.
